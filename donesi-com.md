@@ -57,6 +57,6 @@ Prvo sredjivanje nije bilo bas dobro jer su filtrirani parametri pre snimanja u 
 
 ### Razlog zbog kog sve ovo pisem
 
-Po dogovoru ovo nisam trebao da napisem, ali posle nekog vremena sam shvatio da moram ovo da opisem.
+Po usmenom dogovoru ovo nisam trebao da napisem, ali posle nekog vremena sam shvatio da moram ovo da opisem.
 
-Uglavnom vrlo zanimljivo iskustvo, dosta propusta prijavljeno i jedna velika greska za njih. Dbra stvar po njih je sto su za "dz" dobili sve detaljno opisano, sto nasa zajednica nece podeliti ovakve stvari i to sto me prati ukupno pet ljudi (mama, tata, sestra i jos dva moja lazna profila), a losa stvar je to sto sam u mogucnosti da pisem sve ovo.
+Uglavnom vrlo zanimljivo iskustvo, dosta propusta prijavljeno, dosta dobrih stvarih za njih i jedna velika greska za njih. Dobra stvar po njih je sto su za "dz" dobili sve detaljno opisano, sto su mogli sve da isprave, sto nasa zajednica nece podeliti ovakve stvari i to sto me prati ukupno pet ljudi (mama, tata, sestra i jos dva moja lazna profila), a losa stvar je to sto sam u mogucnosti da pisem sve ovo.
