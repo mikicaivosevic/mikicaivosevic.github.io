@@ -12,3 +12,5 @@ Potrudio sam se da malo opisem svoje iskustvo sa donesi.com povodom prijavljivan
 
 
 ## [NodeBB Cross Site Scripting (XSS)](https://packetstormsecurity.com/files/133739/NodeBB-0.8.2-Cross-Site-Scripting.html)
+
+Zanimljiv XSS na vecem open source projektu. Zanimljivo je to sto je bilo veoma lako pronaci propust, ali bile su muke da napravim pull request sa resenjem tog propusta jer u tom periodu nisam imao apsolutno nikakve veze sa JS-om :D
