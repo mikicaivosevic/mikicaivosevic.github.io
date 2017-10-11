@@ -1,4 +1,4 @@
-## XSS na google.com domeni i nagrad od 5000$ + Hall of fame
+## XSS na google.com domenu i nagrada od 5000$ + Hall of fame
 
 Kako mi je uopste palo na pamet da trazim propuste na google.com ? 
 
