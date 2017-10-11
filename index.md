@@ -10,6 +10,8 @@ Potrudio sam se da malo opisem svoje iskustvo sa donesi.com povodom prijavljivan
 
 ## [undp.org.rs - Cross Site Scripting (XSS)](https://mikicaivosevic.github.io/undp-org-rs-xss)
 
+10.03.2017. sam prijavio XSS na sajtu, do danas (11.10.2017.) nisam dobio nikakav odgovor, pa sam odlucio da objavim detalje ovde.
+
 
 ## [NodeBB Cross Site Scripting (XSS)](https://packetstormsecurity.com/files/133739/NodeBB-0.8.2-Cross-Site-Scripting.html)
 
