@@ -1,4 +1,4 @@
-## [XSS na google.com domeni i nagrad od 5000$ + Hall of fame](https://mikicaivosevic.github.io/google-xss)
+## [XSS na google.com domenu i nagrada od 5000$ + Hall of fame](https://mikicaivosevic.github.io/google-xss)
 
 Nerealna prica o tome kako sam slucajno otisao na google jobs stranicu i kako sam otkrio XSS na glavnom google domenu i osvojio 5000$ + to sto su objavili moje ime na njihovoj "Hall of Fame - Google Vulnerability Reward Program" stranici.
 
