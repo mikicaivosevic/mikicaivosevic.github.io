@@ -1,5 +1,3 @@
-## Kako sam dobio nagradu od 1000 dinara od donesi.com 
-
 ## XSS na google.com domeni i nagrad od 5000$ + Hall of fame
 
 Kako mi je uopste palo na pamet da trazim propuste na google.com ? 
