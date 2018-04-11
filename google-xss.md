@@ -19,8 +19,3 @@ Ono sto je najvaznije, nakon 10ak dana sam dobio email u kom su bile dve veoma b
  - "Congratulations! This vulnerability is eligible for a reward of $5000." 
 
  - "Finally, please let us know if you’d like your name added to our Hall of Fame[1] page. It should be of the form: name - site [site link]"
-
-
-#### Pitanje
-
-Ako sam preko telegraf.rs uspeo da dodjem do propusta na google-u, da li to znaci da treba da krenem da posecujem i informer.rs ? :/ #dilema
