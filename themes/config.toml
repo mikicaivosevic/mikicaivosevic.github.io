@@ -1,0 +1,11 @@
+baseURL = 'https://mikicaivosevic.info'
+languageCode = 'en-us'
+title = 'Mikica Ivošević'
+theme = 'paper'
+
+[params]
+  monoDarkIcon = true
+  twitter = "mikicaivosevic"
+  github = "mikicaivosevic"
+  instagram = "mikica.ivosevic"
+  rss = true
