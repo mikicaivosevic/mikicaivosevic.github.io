@@ -51,6 +51,7 @@
   <time class="text-sm opacity-60"
     >{{ .Date | time.Format ":date_medium" }}</time
   >
+  <p class="!my-0 pb-1 !leading-none">{{ .Description }}</p>
   <a class="absolute inset-0 text-[0]" href="{{ .Permalink }}">{{ .Title }}</a>
 </section>
 {{ end }}
